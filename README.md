@@ -2,7 +2,7 @@
 
 ### Grupo
 
- - Gabriel Machado Barros
- - João Walter Moraes de Almeida
- - 
- - 
+* Gabriel Machado Barros
+* João Walter Moraes de Almeida
+* Stefany Schmengler
+* 
