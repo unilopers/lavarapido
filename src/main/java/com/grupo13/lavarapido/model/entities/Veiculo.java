@@ -60,7 +60,7 @@ public class Veiculo {
         this.modelo = modelo;
     }
 
-        public Cliente getCliente() {
+    public Cliente getCliente() {
         return cliente;
     }
 
@@ -75,6 +75,7 @@ public class Veiculo {
                 ", placa='" + placa + '\'' +
                 ", fabricante='" + fabricante + '\'' +
                 ", modelo='" + modelo + '\'' +
+                ", cliente='" + cliente + '\'' +
                 '}';
     }
 

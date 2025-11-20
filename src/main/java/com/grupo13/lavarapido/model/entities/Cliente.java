@@ -42,6 +42,10 @@ public class Cliente {
     public String getSobrenome() {
         return sobrenome;
     }
+    public String getNomeInteiro() {
+        return (primeiroNome + " " + sobrenome);
+    }
+
     public Instant getDataRegistro() {
         return dataRegistro;
     }
